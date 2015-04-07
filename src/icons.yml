@@ -972,6 +972,7 @@ icons:
       - stop
       - abort
       - cancel
+      - disable
     categories:
       - Web Application Icons
 
